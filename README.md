@@ -1,5 +1,7 @@
 
-SEBSOFT COUPON PLUGIN
+# SEBSOFT COUPON PLUGIN
+
+> NOW SUPPORTS UP TO 64 CHARACTER LENGTH COUPON CODES.
 
 The Sebsoft Coupon Plugin offers you the possibility to create coupons for various levels
 of course access. Using a coupon code, users will be enrolled into courses that are attached to the coupon.
