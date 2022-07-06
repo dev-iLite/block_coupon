@@ -62,7 +62,7 @@ if ($ADMIN->fulltree) {
             $roleoptions
         ));
 
-    $maxcodelengthchoices = array(6 => 6, 8 => 8, 16 => 16, 32 => 32);
+    $maxcodelengthchoices = array(6 => 6, 8 => 8, 16 => 16, 32 => 32, 64 => 64);
     $settings->add(new admin_setting_configselect(
             'block_coupon/coupon_code_length',
             get_string('label:coupon_code_length', 'block_coupon'),
